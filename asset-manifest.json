@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/CoronaBiharTracker/static/js/main.8ab3902b.chunk.js",
+    "main.js.map": "/CoronaBiharTracker/static/js/main.8ab3902b.chunk.js.map",
+    "runtime-main.js": "/CoronaBiharTracker/static/js/runtime-main.65d0bf60.js",
+    "runtime-main.js.map": "/CoronaBiharTracker/static/js/runtime-main.65d0bf60.js.map",
+    "static/js/2.a01f7364.chunk.js": "/CoronaBiharTracker/static/js/2.a01f7364.chunk.js",
+    "static/js/2.a01f7364.chunk.js.map": "/CoronaBiharTracker/static/js/2.a01f7364.chunk.js.map",
+    "index.html": "/CoronaBiharTracker/index.html",
+    "precache-manifest.67a4b7afaca1ccf2546370c3228ef60a.js": "/CoronaBiharTracker/precache-manifest.67a4b7afaca1ccf2546370c3228ef60a.js",
+    "service-worker.js": "/CoronaBiharTracker/service-worker.js",
+    "static/js/2.a01f7364.chunk.js.LICENSE.txt": "/CoronaBiharTracker/static/js/2.a01f7364.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65d0bf60.js",
+    "static/js/2.a01f7364.chunk.js",
+    "static/js/main.8ab3902b.chunk.js"
+  ]
+}
